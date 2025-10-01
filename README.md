@@ -1,6 +1,6 @@
 # 什麼是 git, GitHub, gist 與 cmsimde?
 2025 10 01
-1. Git
+I. Git
    
 <img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/1d93a98d-b940-475f-987e-3035c1002ce9" />
 
@@ -12,15 +12,15 @@
 
 核心功能：
 
-commit：記錄檔案當下的版本
+1.commit：記錄檔案當下的版本
 
-branch：分支，方便多人開發或嘗試不同功能
+2.branch：分支，方便多人開發或嘗試不同功能
 
-merge：合併不同分支的修改
+3.merge：合併不同分支的修改
 
-clone / pull / push：從遠端下載或上傳專案
+4.clone / pull / push：從遠端下載或上傳專案
 
-2. GitHub
+II. GitHub
  <img width="369" height="136" alt="image" src="https://github.com/user-attachments/assets/423f6f1e-ee10-49c7-86db-b408a965ee67" />
  
 一個基於 Git 的 雲端程式碼託管平台。
@@ -29,12 +29,12 @@ clone / pull / push：從遠端下載或上傳專案
 
 附加功能：
 
-Issue / PR（Pull Request）協作機制
+1.Issue / PR（Pull Request）協作機制
 
-權限管理（Collaborators、Organizations）
+2.權限管理（Collaborators、Organizations）
 
-CI/CD 整合（自動測試、部署）
+3.CI/CD 整合（自動測試、部署）
 
-社群功能（追蹤、star、fork）
+4.社群功能（追蹤、star、fork）
 
 主要差別：Git 是工具，GitHub 是平台。
