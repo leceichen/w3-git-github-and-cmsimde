@@ -73,4 +73,4 @@ cmsimde是一個 專案名稱。cmsimde = Content Management System in Markdown 
 
 靠 Git/GitHub 管理版本
 
-👉 可以理解為：cmsimde 是一個結合 GitHub Pages + Markdown 的輕量級 CMS（內容管理系統）。
+cmsimde 是一個結合 GitHub Pages + Markdown 的輕量級 CMS（內容管理系統）。
