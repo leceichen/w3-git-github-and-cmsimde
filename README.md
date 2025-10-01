@@ -1,6 +1,6 @@
 # 什麼是 git, GitHub, gist 與 cmsimde?
 2025 10 01
-#1. Git
+1. Git
 
 一種 分散式版本控制系統 (VCS)。
 
