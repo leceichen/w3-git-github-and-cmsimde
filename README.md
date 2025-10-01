@@ -65,7 +65,7 @@ IV. cmsimde
 
 cmsimde是一個 專案名稱。cmsimde = Content Management System in Markdown and Dropbox Environment。
 
-最初是台灣一些老師/研究人員設計，用於靜態網站生成，搭配 Markdown 來寫內容，並透過 GitHub Pages 發佈。
+用於靜態網站生成，搭配 Markdown 來寫內容，並透過 GitHub Pages 發佈。
 
 特點：
 
