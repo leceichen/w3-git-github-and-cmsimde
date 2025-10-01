@@ -18,7 +18,8 @@ merge：合併不同分支的修改
 
 clone / pull / push：從遠端下載或上傳專案
 
-2. GitHub
+2. GitHub <img width="369" height="136" alt="image" src="https://github.com/user-attachments/assets/423f6f1e-ee10-49c7-86db-b408a965ee67" />
+
 
 一個基於 Git 的 雲端程式碼託管平台。
 
