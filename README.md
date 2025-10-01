@@ -1,6 +1,8 @@
 # 什麼是 git, GitHub, gist 與 cmsimde?
 2025 10 01
 1. Git
+   
+<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/1d93a98d-b940-475f-987e-3035c1002ce9" />
 
 一種 分散式版本控制系統 (VCS)。
 
