@@ -41,3 +41,22 @@ II. GitHub
 4.社群功能（追蹤、star、fork）
 
 主要差別：Git 是工具，GitHub 是平台。
+
+III. Gist
+
+   <img width="1355" height="1025" alt="image" src="https://github.com/user-attachments/assets/f36d50af-b85a-4a29-a061-4edc50fbf95f" />
+
+
+GitHub 提供的一個 迷你 Git 儲存庫。
+
+用來快速分享小段程式碼、設定檔、筆記。
+
+支援版本控制，甚至可以是「公開」或「私密」。
+
+常見用途：
+
+1.分享程式範例
+
+2.存放設定檔
+
+3.Markdown 筆記
