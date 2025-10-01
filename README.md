@@ -60,3 +60,17 @@ GitHub 提供的一個 迷你 Git 儲存庫。
 2.存放設定檔
 
 3.Markdown 筆記
+
+IV. cmsimde
+
+cmsimde是一個 專案名稱。cmsimde = Content Management System in Markdown and Dropbox Environment。
+
+最初是台灣一些老師/研究人員設計，用於靜態網站生成，搭配 Markdown 來寫內容，並透過 GitHub Pages 發佈。
+
+特點：
+
+用 Markdown 寫文章 → 轉成 HTML → 自動變成網站
+
+靠 Git/GitHub 管理版本
+
+👉 可以理解為：cmsimde 是一個結合 GitHub Pages + Markdown 的輕量級 CMS（內容管理系統）。
