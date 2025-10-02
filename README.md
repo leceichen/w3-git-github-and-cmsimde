@@ -19,7 +19,7 @@ I. Git
 
 3.merge：合併不同分支的修改
 
-4.clone / pull / push：從遠端下載或上傳專案
+4.clone / pull / push：從遠端下載或上傳專案 
 
 
 II. GitHub
