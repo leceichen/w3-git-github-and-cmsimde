@@ -1,6 +1,7 @@
 # 什麼是 git, GitHub, gist 與 cmsimde?
 2025 /10 /01
 
+#
 I. Git 
    
 <img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/1d93a98d-b940-475f-987e-3035c1002ce9" />
@@ -20,7 +21,7 @@ I. Git
 3.merge：合併不同分支的修改
 
 4.clone / pull / push：從遠端下載或上傳專案 
-
+#
 
 II. GitHub
 
@@ -41,6 +42,7 @@ II. GitHub
 4.社群功能（追蹤、star、fork）
 
 主要差別：Git 是工具，GitHub 是平台。
+#
 
 III. Gist
 
@@ -60,6 +62,7 @@ GitHub 提供的一個 迷你 Git 儲存庫。
 2.存放設定檔
 
 3.Markdown 筆記
+#
 
 IV. cmsimde
 
