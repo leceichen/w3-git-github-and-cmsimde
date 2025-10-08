@@ -1,5 +1,5 @@
 # 什麼是 git, GitHub, gist 與 cmsimde?
-2025 10 01
+2025 /10 /01
 
 I. Git 
    
