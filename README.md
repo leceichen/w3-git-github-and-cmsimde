@@ -62,7 +62,9 @@ GitHub 提供的一個 迷你 Git 儲存庫。
 3.Markdown 筆記
 
 IV. cmsimde
+
 https://mde.tw/cp2025/content/index.html
+
 cmsimde是一個 專案名稱。cmsimde = Content Management System in Markdown and Dropbox Environment。
 
 用於靜態網站生成，搭配 Markdown 來寫內容，並透過 GitHub Pages 發佈。
